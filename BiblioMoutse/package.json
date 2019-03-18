@@ -1,0 +1,16 @@
+{
+  "name": "bibliomoutse",
+  "version": "1.0.0",
+  "description": "projet escape game biblio connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch-biblio": "watchify src/index.js -o dist/bundle.js"
+  },
+  "author": "Abdelhak/Martin",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.9",
+    "watchify": "^3.11.1"
+  }
+}
