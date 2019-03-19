@@ -1,0 +1,56 @@
+@import url('../node_modules/bootstrap/dist/css/bootstrap.min.css');
+
+main {
+    min-height: 10vh;
+}
+
+nav {
+background-color: #00549c;
+ font-size:15px;
+  height:50px;
+   position:fixed;
+}
+
+nav p {
+  margin-top: 5px;
+}
+nav span {
+  margin:2px 2px 2px 2px;
+}
+
+#titre {
+  height: 100px;
+  border-bottom: solid #eaecef 1px;
+}
+
+#titre img{
+  height: 80px;
+  margin: 10px 3px auto 3px;
+  margin-left:5em;
+
+}
+
+.card {
+  margin-left: 25%;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  width: 40rem;
+
+}
+
+
+
+.rightform {
+  width:18rem;
+  margin-left: 1px;
+  float: right;
+}
+.leftform {
+  width: 18rem;
+  float: left;
+}
+
+footer {
+  background-color: black;
+  display: flex;
+}
