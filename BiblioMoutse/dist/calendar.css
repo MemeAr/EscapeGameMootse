@@ -1,0 +1,55 @@
+#entete{
+  background-color: #00549C;
+  height: 50px;
+  padding-top: 12px;
+  color: white;
+}
+#calendrier{
+  margin-top: 100px;
+}
+#case{
+  border:  0.1px solid  black;
+  text-align: center;
+}
+#date{
+    height: 200px;
+    border:  0.1px solid  black;
+    text-align: left;
+    margin-top: 0;
+}
+span{
+  justify-content: space-around;
+  padding: : 5px 5px 5px 5px;
+
+}
+.title{
+  color: #DD3C24;
+}
+.titreCalendrier{
+  margin-bottom: 20px;
+  color: #DD3C24;
+}
+.mois{
+  text-align: center;
+  color: #736565;
+}
+.biblio{
+  color: white;
+  background-color: blue;
+}
+.mixeur{
+  color: white;
+  background-color: green;
+}
+.scene{
+  color: black;
+  background-color: yellow;
+}
+.bath{
+  color: white;
+  background-color: red;
+}
+.fablab{
+  color: white;
+  background-color: black;
+}
